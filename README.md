@@ -1,5 +1,5 @@
 # TCP Health Check for Elixir
-[![Hex Version](https://img.shields.io/hexpm/v/tcp_health_check.svg)](https://hex.pm/packages/tcp_health_check) [![Hex Docs](http://img.shields.io/badge/hex.pm-docs-green.svg?style=flat)](https://hexdocs.pm/tcp_health_check) [![CI Status](https://github.com/dnsbty/tcp_health_check/workflows/ci/badge.svg)](https://github.com/dnsbty/tcp_health_check/actions) [![MIT License](https://img.shields.io/hexpm/l/tcp_health_check)](https://opensource.org/licenses/MIT)
+[![Hex Version](https://img.shields.io/hexpm/v/tcp_health_check.svg)](https://hex.pm/packages/tcp_health_check) [![Hex Docs](http://img.shields.io/badge/hex.pm-docs-green.svg?style=flat)](https://hexdocs.pm/tcp_health_check) [![CI Status](https://github.com/dnsbty/tcp_health_check/actions/workflows/ci.yml/badge.svg)](https://github.com/dnsbty/tcp_health_check/actions) [![MIT License](https://img.shields.io/hexpm/l/tcp_health_check)](https://opensource.org/licenses/MIT)
 
 #### The easiest way to add a health check for your background services
 
